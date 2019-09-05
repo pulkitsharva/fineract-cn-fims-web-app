@@ -10,6 +10,11 @@
 * Run local development environment `npm run dev`
 * Go to http://localhost:4200
 
+## Tenant: playground
+## User: operator
+## Password: init1@l
+
+
 ## Production build
 * Run license check `npm run checkLicenses`
 * Run in production mode `npm run runProd`. This is only to test if AOT is working and should never be used in a production environment.
